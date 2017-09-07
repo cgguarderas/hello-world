@@ -12,3 +12,4 @@ GA
 1. Removing and monitoring the #FeralGalaposCats and #FeralGalapagosDogs, on the GALAPAGOS ISLANDS, SAN CRISTOBAL ISLAND
 2. Analizing current cammera data from the Chocó Region of Ecuador.
 
+hoping i can get some of that famous github#collaboration
